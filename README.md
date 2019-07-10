@@ -6,4 +6,6 @@ Farhad: I have made some small changes to the J.Muller's work to meet our needs 
 
 # Usage
 
-Just clone it and start to work. Best served with Rstudio and Git.
+Farhad: Clone it, rename 'name_of_the_project.Rproj' to an appropriate name (e.g. BCCA_2019.Rproj) and put it in a folder with the same name.
+
+Best served with RStudio and Git.
